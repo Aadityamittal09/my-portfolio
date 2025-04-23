@@ -1,6 +1,6 @@
 // set up text to print, each item in array is new line
 var aText = new Array(
-    "I'm Aaditya Mittal — a multidisciplinary designer blending animation, VFX, VR, and graphic design to tell bold visual stories across mediums."
+    "I’m Aadiya Mittal, a passionate student designer with a focus on UI design and video editing. I love creating clean, intuitive digital experiences that not only look great but also feel right to use. Whether it’s designing user interfaces that simplify interactions or editing videos that tell compelling stories, I bring creativity and attention to detail to everything I do. I’m constantly exploring new trends and tools to grow my skills and push my creative boundaries. Every project is a chance to learn, experiment, and bring ideas to life through visuals that connect and communicate."
 );
 var iSpeed = 100; // time delay of print out
 var iIndex = 0; // start printing array at this posision
